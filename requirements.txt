@@ -1,0 +1,7 @@
+RPi.GPIO
+pytesseract
+tesseract
+matplotlib
+requests
+imutils
+opencv-python
